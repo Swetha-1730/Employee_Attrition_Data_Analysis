@@ -1,4 +1,5 @@
-# **Employee Attrition Analysis**
+# **Employee Attrition Analysis**([Project_Report](https://github.com/user-attachments/files/17002489/Employee.Attrition.Analysis.Data.Analysis.Documentation.Report.pdf))
+
 
 ## **Project Overview**
 - This project focuses on analyzing employee attrition data to identify factors contributing to high turnover rates in a company.
