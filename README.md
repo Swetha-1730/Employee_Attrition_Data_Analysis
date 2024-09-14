@@ -5,7 +5,7 @@
 - Attrition negatively impacts productivity, team morale, and operational costs.
 - The analysis aims to uncover key drivers behind employee attrition, providing actionable insights to help reduce turnover and improve retention.
 
-## **Business Problem**
+## **Business Problem Statement**
 - The company faces a **15% annual attrition rate**, resulting in substantial financial losses due to the cost of replacing employees (1.5 to 2 times the annual salary).
 - The goal is to reduce the attrition rate below **10%** by identifying the main factors driving employee departures.
 
